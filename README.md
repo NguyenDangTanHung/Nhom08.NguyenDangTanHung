@@ -32,8 +32,8 @@ You can connect with me here:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
 
 ## Badges
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDangTanHung&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDangTanHung)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Achievements
 ![Achievement 1](https://your-image-url-1.com)
