@@ -32,27 +32,7 @@ You can connect with me here:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
 
 ## Badges
-<table align="center">
-  <tr>
-    <td>
-      <h3 align="center">Nguyễn Đặng Tấn Hưng GitHub Stats</h3>
-      <ul style="list-style-type:none; text-align: left;">
-        <li>🌟 <b>Total Stars Earned:</b> 119</li>
-        <li>⌛ <b>Total Commits (2024):</b> 74</li>
-        <li>🔀 <b>Total PRs:</b> 118</li>
-        <li>🐛 <b>Total Issues:</b> 9</li>
-        <li>📦 <b>Contributed to (last year):</b> 10</li>
-      </ul>
-    </td>
-    <td>
-      <div align="center" style="width: 150px; height: 150px; border-radius: 50%; background-color: #2E2E2E; padding: 20px; color: #8BDB81; font-size: 40px; font-weight: bold;">
-        B+
-      </div>
-    </td>
-  </tr>
-</table>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## Achievements
