@@ -36,5 +36,5 @@ You can connect with me here:
 
 
 ## Achievements
-![Achievement 1]([https://your-image-url-1.com](https://github.com/NguyenDangTanHung/Nhom08.NguyenDangTanHung/blob/main/avatar1))
-![Achievement 2]([https://your-image-url-2.com](https://github.com/NguyenDangTanHung/Nhom08.NguyenDangTanHung/blob/main/avatar1))
+![Achievement 1]([https://github.com/NguyenDangTanHung/Nhom08.NguyenDangTanHung/blob/main/avatar1])
+![Achievement 2]([https://drive.google.com/file/d/17qsFNrz0Al5njMdwobetRAMVv-y1LqEv/view?usp=drive_link])
