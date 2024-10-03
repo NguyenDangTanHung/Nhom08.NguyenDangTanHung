@@ -11,5 +11,5 @@ I'm Developer from **CodeLyoko Teams**. I was born in Bình Dương Province.
 - ![VS Code Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Achievements
-![achievement1](URL_ẢNH_CỦA_BẠN)
+![achievement1](https://github.com/NguyenDangTanHung/Nhom08.NguyenDangTanHung/blob/main/avatar1)
 ![achievement2](URL_ẢNH_CỦA_BẠN)
