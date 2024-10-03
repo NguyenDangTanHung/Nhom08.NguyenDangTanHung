@@ -50,10 +50,7 @@ I love connecting with people, exchanging ideas, and working on collaborative pr
 
 ## 🏆 GitHub Achievements & Stats:
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDangTanHung&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDangTanHung&layout=compact&theme=radical&hide=css,html)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDangTanHung&show_icons=true&theme=radical)
 
 </div>
 
